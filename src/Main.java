@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        Person harry = new Person("Harry Potter");
         Person mads = new Person("Mads");
         Person abdi = new Person("Abdi");
         Person emil = new Person("Emil");
+        Person harry = new Person("Harry Potter");
 
         DynamicArray dynArr = new DynamicArray();
 
